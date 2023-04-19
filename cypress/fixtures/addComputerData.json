@@ -1,0 +1,11 @@
+{
+  "validIntroducedDate": "2000-01-01",
+  "validDiscontinuedDate": "2023-01-01",
+  "inValidIntroducedDate": "01-01-2000",
+  "inValidDiscontinuedDate": "01-01-2023",
+  "validFutureIntroducedDate": "2024-01-01",
+  "validPastDiscontinuedDate": "1999-01-01",
+  "invalidIntroducedDateFormat": "01-01-2000",
+  "invalidDiscontinuedDateFormat": "01-01-2023"
+}
+
